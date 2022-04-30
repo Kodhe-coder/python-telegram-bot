@@ -2,7 +2,7 @@
 
 -STEPS TO START THE BOT
 
-Run the main.py file
+Run the main.py file<br/>
 Download Telegram
 Search for @SqueakyGeezr_bot
 type " /start "  without the quotes into the message field to start the bot
